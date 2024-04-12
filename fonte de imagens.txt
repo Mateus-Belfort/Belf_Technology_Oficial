@@ -1,0 +1,20 @@
+fonte de imagens
+
+img 1: <a href="https://br.freepik.com/fotos-gratis/jovem-mulher-limpando-o-teclado-do-laptop_26320258.htm#fromView=search&page=1&position=2&uuid=297afaad-8845-432f-850d-578d30f54184">Imagem de freepik</a>
+
+img 2: <a href="https://br.freepik.com/fotos-gratis/retrato-feminino-trabalhando_12240907.htm#fromView=search&page=1&position=14&uuid=297afaad-8845-432f-850d-578d30f54184">Imagem de freepik</a>
+
+img 3: <a href="https://br.freepik.com/fotos-gratis/close-up-de-macho-maos-pratica-reparar-motherboard-ligado-tabela-madeira_2948308.htm#fromView=search&page=1&position=28&uuid=297afaad-8845-432f-850d-578d30f54184">Imagem de freepik</a>
+
+img 4: <a href="https://br.freepik.com/fotos-gratis/homem-irreconhecivel-olha-guias-na-internet-enquanto-repara-seu-smartphone-troca-de-tela-e-bateria_11344212.htm#fromView=search&page=1&position=41&uuid=297afaad-8845-432f-850d-578d30f54184">Imagem de bublikhaus no Freepik</a>
+
+img 5:<a href="https://br.freepik.com/fotos-gratis/close-up-do-componente-de-hardware_12975351.htm#fromView=search&page=1&position=45&uuid=297afaad-8845-432f-850d-578d30f54184">Imagem de freepik</a>
+
+img 6: <a href="https://br.freepik.com/fotos-gratis/reparo-da-placa-de-circuito-de-close-up_6953049.htm#fromView=search&page=1&position=49&uuid=297afaad-8845-432f-850d-578d30f54184">Imagem de freepik</a>
+
+img 7:<a href="https://br.freepik.com/fotos-gratis/o-mestre-usa-uma-pequena-ventosa-para-remover-as-celulas-da-bateria-do-laptop-quebrado-para-conserta-lo-e-limpa-lo-em-seu-laboratorio-com-ferramentas-especiais-na-mesa-ao-redor_11899472.htm#fromView=search&page=2&position=1&uuid=297afaad-8845-432f-850d-578d30f54184">Imagem de bublikhaus no Freepik</a>
+
+img 8:<a href="https://br.freepik.com/fotos-gratis/reparacao-da-vista-superior-de-uma-placa-de-circuito_6952246.htm#fromView=search&page=2&position=5&uuid=297afaad-8845-432f-850d-578d30f54184">Imagem de freepik</a>
+
+img 9:<a href="https://br.freepik.com/fotos-gratis/tecnico-de-reparacao-da-placa-mae-do-computador_2944495.htm#fromView=search&page=2&position=32&uuid=297afaad-8845-432f-850d-578d30f54184">Imagem de freepik</a>
+
