@@ -31,7 +31,7 @@ a{
 }
 
 .navbar-toggler{
-  background-color: var(--color-white);
+  background-color: rgba(203, 229, 247, 0.474);
   transition: 500ms ease-in-out;
 }
 
@@ -197,7 +197,5 @@ footer{
     height: 15rem;
     width: 15rem;
   }
-
-
 
 }
