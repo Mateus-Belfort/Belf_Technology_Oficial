@@ -190,8 +190,7 @@ footer{
 
   .section__img-inline{
     border-top-left-radius: 1rem;
-    border-bottom-right-radius: 1rem;
-    float:right;
+    border-bottom-right-radius: 1rem;    
     margin-right: 3rem;
     margin-bottom: .7rem;
     height: 15rem;
